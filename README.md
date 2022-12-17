@@ -21,6 +21,8 @@ Teknologier jeg kan:
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="https://en.wikipedia.org/wiki/php"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href="https://en.wikipedia.org/wiki/Scheme"><img src="https://img.shields.io/badge/%20-Scheme-red?style=for-the-badge&logo=appveyor"/></a>
+
 
 Diverse:
 
