@@ -28,8 +28,6 @@ Diverse:
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
 
-https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
-
 My workflow:
 
 <a href="https://en.wikipedia.org/wiki/Apple_Inc."><img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/></a>
