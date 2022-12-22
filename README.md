@@ -9,7 +9,7 @@ erlhol/erlhol is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Teknologier jeg kan:
+Technologies I know:
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -24,7 +24,7 @@ Teknologier jeg kan:
 <a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)"><img src="https://img.shields.io/badge/%20-Scheme-red?style=for-the-badge&logo=appveyor"/></a>
 
 
-Diverse:
+Miscellaneous:
 
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
