@@ -23,6 +23,7 @@ Technologies I know:
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)"><img src="https://img.shields.io/badge/%20-Scheme-red?style=for-the-badge&logo=appveyor"/></a>
 
+Currently learning Rust!
 
 Miscellaneous:
 
