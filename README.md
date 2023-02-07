@@ -22,8 +22,7 @@ Technologies I know:
 <a href="https://en.wikipedia.org/wiki/php"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)"><img src="https://img.shields.io/badge/%20-Scheme-red?style=for-the-badge&logo=appveyor"/></a>
-
-Currently learning Rust!
+<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 
 Miscellaneous:
 
