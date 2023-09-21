@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erlhol
 - 👀 I’m interested in app development and software engineering
-- 🌱 I’m currently learning information retrieval at NUS!
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me erlinhol@uio.no
 
