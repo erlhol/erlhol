@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erlhol 🇳🇴
+- 👋 Hi, I’m @erlhol
 - 👀 I’m interested in App Development and Software Engineering
 - 🌱 I’m currently learning React! Check out my project "EmnePlanleggeren"!
 - 💞️ I’m looking to collaborate on cool projects!
@@ -9,7 +9,7 @@ erlhol/erlhol is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-Technologies I know:
+Programming languages:
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -30,7 +30,7 @@ Miscellaneous:
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/></a>
 
-My workflow:
+My Workflow:
 
 <a href="https://en.wikipedia.org/wiki/Apple_Inc."><img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
